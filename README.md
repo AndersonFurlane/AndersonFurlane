@@ -15,7 +15,6 @@ I'm a {backend} developer at [@BLU](https://www.linkedin.com/company/useblu) and
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache_Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white)
 
 <!--
 **AndersonFurlane/AndersonFurlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
