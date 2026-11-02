@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" role="img" aria-label="Linguagens mais usadas">
+<style>.t{font:600 15px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#E6EDF3}.l{font:400 12px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#C9D1D9}</style>
+<rect x="0.5" y="0.5" width="419" height="149" rx="10" fill="#0D1117" stroke="#30363D"/>
+<text x="24" y="34" class="t">Linguagens mais usadas</text>
+<clipPath id="c"><rect x="24" y="50" width="372" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
+<rect x="24.00" y="50" width="302.45" height="10" fill="#CC342D"/>
+<rect x="325.95" y="50" width="37.34" height="10" fill="#E34C26"/>
+<rect x="362.79" y="50" width="18.69" height="10" fill="#663399"/>
+<rect x="380.98" y="50" width="11.23" height="10" fill="#F1E05A"/>
+<rect x="391.71" y="50" width="4.79" height="10" fill="#8B949E"/>
+</g>
+<circle cx="29" cy="84" r="5" fill="#CC342D"/><text x="40" y="88" class="l">Ruby 81.2%</text>
+<circle cx="219" cy="84" r="5" fill="#E34C26"/><text x="230" y="88" class="l">HTML 9.9%</text>
+<circle cx="29" cy="106" r="5" fill="#663399"/><text x="40" y="110" class="l">CSS 4.9%</text>
+<circle cx="219" cy="106" r="5" fill="#F1E05A"/><text x="230" y="110" class="l">JavaScript 2.9%</text>
+<circle cx="29" cy="128" r="5" fill="#8B949E"/><text x="40" y="132" class="l">Outras 1.2%</text>
+</svg>
